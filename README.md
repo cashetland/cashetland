@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cashetland
+- 👀 I’m interested in open source software, 3D graphics -- particularly Blender -- and high-performance computing -- particularly accelerator/GPU.
+- 🌱 I’m currently learning how to apply transformer models 3D graphics tasks, e.g. modeling 3D meshes, rigging, organizing large 3D scenes.
